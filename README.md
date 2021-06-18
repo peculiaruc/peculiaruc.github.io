@@ -2,7 +2,8 @@
 
 ## Projects
 
-.WineShop
+
+## WineShop
  An app that displays the different types of Non-Alcoholic wines and their details. It uses Room database to 
  save users Login details.
  
