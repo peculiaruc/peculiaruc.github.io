@@ -27,10 +27,10 @@ leading to the completion/publication of the app on the [play store](https://pla
 
 ## Personal Projects
 
-# NewsApp
+### NewsApp
 An app that fetches the current news from the internet and displays it in the web view.
 
-## Libraries Used
+#### Libraries Used
 * Retrofit
 * ViewModel
 * LiveData
@@ -39,7 +39,7 @@ An app that fetches the current news from the internet and displays it in the we
 * MVVM
 * Room Database
 
-## Screenshots
+#### Screenshots
 <table>
   <tr>
   <td>
@@ -73,11 +73,11 @@ An app that fetches the current news from the internet and displays it in the we
 </table>
 
 
-## WineShop
+### WineShop
  An app that displays the different types of Non-Alcoholic wines and their details. It uses Room database to 
  save users Login details.
  
- ## Features
+ #### Features
  
  * Splashscreen.
  
@@ -89,7 +89,7 @@ An app that fetches the current news from the internet and displays it in the we
  
  * Detail Sreen that displays the details of each selected wine.
 
-## Libraries Used
+#### Libraries Used
 
 * Retrofit
 * ViewModel
@@ -102,7 +102,7 @@ An app that fetches the current news from the internet and displays it in the we
 * Room Database
  
  
- ##Screenshots
+ #### Screenshots
  <table>
    <tr>
    <td>
@@ -142,10 +142,10 @@ An app that fetches the current news from the internet and displays it in the we
  </table>
 
 
-# LEADERBOARD
+### LEADERBOARD
 AAD-Phase-2-Project. An app that displays 20 top learners and the likes.
 
-# Screenshots
+#### Screenshots
 
 <table>
 <tr> 
