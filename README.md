@@ -5,7 +5,7 @@
 #### 1. Oppia Android Project  
 
 Link - https://github.com/oppia/oppia-android
-* Optimized profile chooser fragment - https://github.com/oppia/oppia-android/pull/1997
+* Optimized profile chooser fragment - [UI](https://github.com/oppia/oppia-android/pull/1997)
 * Profile chooser profile view XML up to 100%. - https://github.com/oppia/oppia-android/pull/2100
 * Formatted Fraction Input Is Equivalent To Rule Classifier up to 100% - https://github.com/oppia/oppia-android/pull/2024    
 * Added tests for Number With Units Input Is Equal To Rule Classifier -https://github.com/oppia/oppia-android/pull/2152 .
