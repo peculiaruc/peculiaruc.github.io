@@ -3,6 +3,7 @@
 ## Open Source Contribution
 
 ### Oppia Android Project  
+
 Link - https://github.com/oppia/oppia-android
 ● Optimized profile chooser fragment - https://github.com/oppia/oppia-android/pull/1997
 ● Profile chooser profile view XML up to 100%. - https://github.com/oppia/oppia-android/pull/2100
@@ -11,12 +12,14 @@ Link - https://github.com/oppia/oppia-android
 ● Selection Input Equals Rule Classifier up to 100%.- https://github.com/oppia/oppia-android/pull/2144 Etc.
 
 ### Zuri Chat Inc
+
 Link - https://github.com/zurichat/zc_app_android
 *Implemented authentications and all assigned/picked issues in Zuri Chat app to 100% 
 leading to the completion/publication of the app on the play store, 
 (https://play.google.com/store/apps/details?id=com.zurichat.app).
 
 ### ReachForHelp
+
 Link - https://github.com/ksinnovationhub/teamsdn
 * Platform for NBA to track illegal detention cases, 
   police harassment  and domestic violent.
@@ -177,5 +180,3 @@ AAD-Phase-2-Project. An app that displays 20 top learners and the likes.
 </td>
 </tr>
 </table>
-
-
