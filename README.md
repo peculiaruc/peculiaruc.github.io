@@ -27,7 +27,7 @@ leading to the completion/publication of the app on the [play store](https://pla
 
 ## Personal Projects
 
-### NewsApp
+### 1. NewsApp
 An app that fetches the current news from the internet and displays it in the web view.
 
 #### Libraries Used
@@ -73,7 +73,8 @@ An app that fetches the current news from the internet and displays it in the we
 </table>
 
 
-### WineShop
+
+###2. WineShop
  An app that displays the different types of Non-Alcoholic wines and their details. It uses Room database to 
  save users Login details.
  
@@ -142,8 +143,10 @@ An app that fetches the current news from the internet and displays it in the we
  </table>
 
 
-### LEADERBOARD
-AAD-Phase-2-Project. An app that displays 20 top learners and the likes.
+
+###3. LEADERBOARD
+Google Africa Developer Schorlaship-GADS Project.
+AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 
 #### Screenshots
 
