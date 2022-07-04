@@ -1,4 +1,4 @@
-# Peculiar's Portfolio 
+# Peculiar's Portfolio  <p> <a href="https://www.linkedin.com/in/peculiar-c-umeh"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a> <p>  
 
 ## Open Source Contributions
 
