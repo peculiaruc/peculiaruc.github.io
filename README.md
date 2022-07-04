@@ -105,6 +105,7 @@ An app that fetches the current news from the internet and displays it in the we
  
  #### Screenshots
  <table>
+  
    <tr>
    <td>
    
@@ -144,7 +145,8 @@ An app that fetches the current news from the internet and displays it in the we
 
 
 
-###3. LEADERBOARD
+### 3. LEADERBOARD
+
 Google Africa Developer Schorlaship-GADS Project.
 AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 
