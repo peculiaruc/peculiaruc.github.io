@@ -213,3 +213,6 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 </td>
 </tr>
 </table>
+
+# Publications
+Coming soon
