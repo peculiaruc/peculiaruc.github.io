@@ -183,3 +183,33 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 </td>
 </tr>
 </table>
+
+
+ # Public Speaking
+ My public speaking events
+
+ #### Check them out
+
+<table>
+<tr> 
+<td>
+
+![Global WomenTech Conference 2020](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/womentech%201.png)
+
+</td>
+<td>
+
+![SCA Event](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/Asaba%20SCA.jpeg)
+
+</td>
+<td>
+
+![Global WomenTech Conference 2022](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/WomenTech.png)
+</td>
+<td>
+
+![Google i/o Extended](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/io.jpeg)
+
+</td>
+</tr>
+</table>
