@@ -1,9 +1,7 @@
 # Peculiar's Portfolio  <p> <a href="https://www.linkedin.com/in/peculiar-c-umeh"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a> <p>  
 
-### I am Peculiar C. Umeh
-### An Android Developer
-### Open source enthusiastic, Public Speaker
-### Program Manager
+#### Name: Peculiar C. Umeh
+##### An Android Developer,Open source enthusiastic, Public Speaker, Program Manager
 
 ## Open Source Contributions
 
