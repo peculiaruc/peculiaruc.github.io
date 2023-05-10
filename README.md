@@ -197,6 +197,7 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 <tr> 
 <td>
 
+  Global WomenTech Conference 2020
 ![Global WomenTech Conference 2020](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/womentech%201.png)
 
 </td>
@@ -206,12 +207,11 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 
 </td>
 <td>
-
+Global WomenTech Conference 2023
 ![Global WomenTech Conference 2022](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/WomenTech.png)
 </td>
 <td>
 
-  Building Android Applications with Jetpack Compose
 ![Google i/o Extended](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/io.jpeg)
 
 </td>
@@ -219,9 +219,11 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
   
   <td>
 
-![Global WomenTech Conference 2023](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/WomenTech.png)
-    ### Toic: Building Android Applications with Jetpack Compose
-    Link: (Building Android Applications with Jetpack Compose)[https://women-in-tech-conference.vfairs.com/en/hall#exterior-view]
+    Global WomenTech Conference 2023
+![Global WomenTech Conference 2023](![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/4cc5dc5c-d60a-40c7-b271-2f5e13b8bafd)
+   
+    Topic: Building Android Applications with Jetpack Compose
+    Link: (View the session)[https://women-in-tech-conference.vfairs.com/en/hall#exterior-view]
 </td>
 </table>
 
