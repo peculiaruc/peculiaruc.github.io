@@ -3,7 +3,7 @@
 #### Name: Peculiar C. Umeh
 ##### An Android Developer,Open source enthusiastic, Public Speaker, Program Manager
 
-## Open Source Contributions
+## 1. Open Source Contributions
   
 ### Product Owner (ALC Open Source Community)
   I am building a Product called Mentor Management System for ALC Open Source Community.
@@ -12,7 +12,7 @@
   
   (The link can be found here)[https://github.com/orgs/ALCOpenSource/repositories]
 
-### 1. Oppia Android Project  
+### 2. Oppia Android Project  
 
 [Link](https://github.com/oppia/oppia-android)
 * Optimized profile chooser fragment - [UI](https://github.com/oppia/oppia-android/pull/1997)
@@ -21,14 +21,14 @@
 * Added tests for Number With Units Input Is Equal To Rule Classifier -[Test case](https://github.com/oppia/oppia-android/pull/2152)
 * Selection Input Equals Rule Classifier up to 100%.-[Test case](https://github.com/oppia/oppia-android/pull/2144) Etc.
 
-#### 2. Zuri Chat Inc
+#### 3. Zuri Chat Inc
 
 [Link](https://github.com/zurichat/zc_app_android)
 
 * Implemented authentications and all assigned/picked issues in Zuri Chat app to 100% 
 leading to the completion/publication of the app on the [play store](https://play.google.com/store/apps/details?id=com.zurichat.app).
 
-#### 3. ReachForHelp
+#### 4. ReachForHelp
 
 [Link](https://github.com/ksinnovationhub/teamsdn)
 * Platform for NBA to track illegal detention cases, 
