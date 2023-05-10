@@ -211,10 +211,18 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 </td>
 <td>
 
+  Building Android Applications with Jetpack Compose
 ![Google i/o Extended](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/io.jpeg)
 
 </td>
 </tr>
+  
+  <td>
+
+![Global WomenTech Conference 2023](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/WomenTech.png)
+    ### Toic: Building Android Applications with Jetpack Compose
+    Link: (Building Android Applications with Jetpack Compose)[https://women-in-tech-conference.vfairs.com/en/hall#exterior-view]
+</td>
 </table>
 
 # Publications
