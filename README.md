@@ -1,55 +1,61 @@
-# Peculiar's Portfolio  <p> <a href="https://www.linkedin.com/in/peculiar-c-umeh"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a> <p>  
+# Peculiar's Portfolio  <p> <a href="https://www.linkedin.com/in/peculiar-c-umeh"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a> <p>
 
 #### Name: Peculiar C. Umeh
+
 ##### An Android Developer,Open source enthusiastic, Public Speaker, Program Manager
 
 ## 1. Open Source Contributions
-  
-### Product Owner - Product Manager(ALC Open Source Community)
-  I am building a Product called Mentor Management System for ALC Open Source Community.
-  As a Product Owner, I manage team of 7 designers to design the first phase of the product.
-  Presently, I am coordinating 50 Engineers developing the Web Application and 22 designers, designing the Mobile Application.
-  
-  (The link can be found here)[https://github.com/orgs/ALCOpenSource/repositories]
 
-### 2. Oppia Android Project  
+### Product Owner - Product Manager(ALC Open Source Community)
+
+I am building a Product called Mentor Management System for ALC Open Source Community.
+As a Product Owner, I manage team of 7 designers to design the first phase of the product.
+Presently, I am coordinating 50 Engineers developing the Web Application and 22 designers, designing the Mobile Application.
+
+(The link can be found here)\[https://github.com/orgs/ALCOpenSource/repositories]
+
+### 2. Oppia Android Project
 
 [Link](https://github.com/oppia/oppia-android)
-* Optimized profile chooser fragment - [UI](https://github.com/oppia/oppia-android/pull/1997)
-* Profile chooser profile view XML up to 100%. - [UI](https://github.com/oppia/oppia-android/pull/2100)
-* Formatted Fraction Input Is Equivalent To Rule Classifier up to 100% -[Test case](https://github.com/oppia/oppia-android/pull/2024)    
-* Added tests for Number With Units Input Is Equal To Rule Classifier -[Test case](https://github.com/oppia/oppia-android/pull/2152)
-* Selection Input Equals Rule Classifier up to 100%.-[Test case](https://github.com/oppia/oppia-android/pull/2144) Etc.
+
+*   Optimized profile chooser fragment - [UI](https://github.com/oppia/oppia-android/pull/1997)
+*   Profile chooser profile view XML up to 100%. - [UI](https://github.com/oppia/oppia-android/pull/2100)
+*   Formatted Fraction Input Is Equivalent To Rule Classifier up to 100% -[Test case](https://github.com/oppia/oppia-android/pull/2024)
+*   Added tests for Number With Units Input Is Equal To Rule Classifier -[Test case](https://github.com/oppia/oppia-android/pull/2152)
+*   Selection Input Equals Rule Classifier up to 100%.-[Test case](https://github.com/oppia/oppia-android/pull/2144) Etc.
 
 #### 3. Zuri Chat Inc
 
 [Link](https://github.com/zurichat/zc_app_android)
 
-* Implemented authentications and all assigned/picked issues in Zuri Chat app to 100% 
-leading to the completion/publication of the app on the [play store](https://play.google.com/store/apps/details?id=com.zurichat.app).
+*   Implemented authentications and all assigned/picked issues in Zuri Chat app to 100%
+    leading to the completion/publication of the app on the [play store](https://play.google.com/store/apps/details?id=com.zurichat.app).
 
 #### 4. ReachForHelp
 
 [Link](https://github.com/ksinnovationhub/teamsdn)
-* Platform for NBA to track illegal detention cases, 
-  police harassment  and domestic violent.
 
+*   Platform for NBA to track illegal detention cases,
+    police harassment  and domestic violent.
 
 ## Personal Projects
 
 ### 1. NewsApp
+
 An app that fetches the current news from the internet and displays it in the web view.
 
 #### Libraries Used
-* Retrofit
-* ViewModel
-* LiveData
-* Coroutines
-* Navigation Components
-* MVVM
-* Room Database
+
+*   Retrofit
+*   ViewModel
+*   LiveData
+*   Coroutines
+*   Navigation Components
+*   MVVM
+*   Room Database
 
 #### Screenshots
+
 <table>
   <tr>
   <td>
@@ -82,78 +88,81 @@ An app that fetches the current news from the internet and displays it in the we
  </tr>
 </table>
 
+### 2. WineShop
 
+An app that displays the different types of Non-Alcoholic wines and their details. It uses Room database to
+save users Login details.
 
-###2. WineShop
- An app that displays the different types of Non-Alcoholic wines and their details. It uses Room database to 
- save users Login details.
- 
- #### Features
- 
- * Splashscreen.
- 
- * Sign up with users data saved in Room database.
- 
- * Login and user verification with Room database.
- 
- * Home Screen with list of Non-Alcoholic wines.
- 
- * Detail Sreen that displays the details of each selected wine.
+#### Features
+
+*   Splashscreen.
+
+*   Sign up with users data saved in Room database.
+
+*   Login and user verification with Room database.
+
+*   Home Screen with list of Non-Alcoholic wines.
+
+*   Detail Sreen that displays the details of each selected wine.
 
 #### Libraries Used
 
-* Retrofit
-* ViewModel
-* LiveData
-* Moshi
-* Coroutines
-* Navigation Components
-* Coil
-* MVVM
-* Room Database
- 
- 
- #### Screenshots
+*   Retrofit
+
+*   ViewModel
+
+*   LiveData
+
+*   Moshi
+
+*   Coroutines
+
+*   Navigation Components
+
+*   Coil
+
+*   MVVM
+
+*   Room Database
+
+#### Screenshots
+
  <table>
-  
+
    <tr>
    <td>
-   
-   ![SplashScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034518.png)
-   
+
+![SplashScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034518.png)
+
    </td>
-   
+
    <td>
-     
-   ![LogInScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034550.png)
-     
+
+![LogInScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034550.png)
+
    </td>
-   
+
    <td>
-     
-   ![SignUpScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034908.png)
-     
+
+![SignUpScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034908.png)
+
    </td>
    </tr>
-   
-    <tr>
-       
+
   <td>
-      
-   ![HomeScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-05-30-023821.png) 
-          
+
+![HomeScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-05-30-023821.png)
+
   </td>
-    
+
    <td>
-    
-   ![DetailScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-05-30-024334.png) 
-        
+
+![DetailScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-05-30-024334.png)
+
   </td>
-  
+
   </tr>
  </table>
-
-
 
 ### 3. LEADERBOARD
 
@@ -177,6 +186,7 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 <td>
 
 ![SkillIQ](https://github.com/peculiaruc/LEADERBOARD/blob/master/app/screenshots/SkillIQ.png)
+
 </td>
 <td>
 
@@ -186,57 +196,69 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 <td>
 
 ![SubmitScren](https://github.com/peculiaruc/LEADERBOARD/blob/master/app/screenshots/confirmation.png)
+
 </td>
 <td>
 
 ![SuccesssfulSubmission](https://github.com/peculiaruc/LEADERBOARD/blob/master/app/screenshots/successfulSubmission.png)
+
 </td>
 </tr>
 </table>
 
+# Public Speaking
 
- # Public Speaking
- My public speaking events
+My public speaking events
 
- #### Check them out
+#### Check them out
 
 <table>
 <tr> 
 <td>
 
-  Global WomenTech Conference 2020
+Global WomenTech Conference 2020
 ![Global WomenTech Conference 2020](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/womentech%201.png)
+
+Topic: Kotlin Programming Language: A big fix for many Java Issues
 
 </td>
 <td>
 
 ![SCA Event](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/Asaba%20SCA.jpeg)
 
+Topic: Choosing a Tech Path
+
 </td>
 <td>
-  
-Global WomenTech Conference 2023
+
+Global WomenTech Conference 2022
 ![Global WomenTech Conference 2022](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/WomenTech.png)
-  
+
+Topic: Dependency Injection with Hilt in Android.
+
 </td>
-  
+
 <td>
 
 ![Google i/o Extended](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/io.jpeg)
 
 </td>
-  
-</tr>
-  
+
   <td>
 
     Global WomenTech Conference 2023
-![Global WomenTech Conference 2023](![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/4cc5dc5c-d60a-40c7-b271-2f5e13b8bafd)
-   
+
+Global WomenTech Conference 2023
+![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/4cc5dc5c-d60a-40c7-b271-2f5e13b8bafd)
+
     Topic: Building Android Applications with Jetpack Compose
     Link: (View the session)[https://women-in-tech-conference.vfairs.com/en/hall#exterior-view]
+
 </td>
+
+</tr>
 </table>
 
 # Publications
+
 Coming soon
