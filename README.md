@@ -5,7 +5,7 @@
 
 ## 1. Open Source Contributions
   
-### Product Owner (ALC Open Source Community)
+### Product Owner - Product Manager(ALC Open Source Community)
   I am building a Product called Mentor Management System for ALC Open Source Community.
   As a Product Owner, I manage team of 7 designers to design the first phase of the product.
   Presently, I am coordinating 50 Engineers developing the Web Application and 22 designers, designing the Mobile Application.
