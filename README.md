@@ -222,6 +222,8 @@ Global WomenTech Conference 2020
 Topic: Kotlin Programming Language: A big fix for many Java Issues
 
 </td>
+</tr>
+<tr>
 <td>
 
 ![SCA Event](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/Asaba%20SCA.jpeg)
@@ -229,6 +231,8 @@ Topic: Kotlin Programming Language: A big fix for many Java Issues
 Topic: Choosing a Tech Path
 
 </td>
+</tr>
+<tr>
 <td>
 
 Global WomenTech Conference 2022
@@ -237,13 +241,16 @@ Global WomenTech Conference 2022
 Topic: Dependency Injection with Hilt in Android.
 
 </td>
+</tr>
 
+<tr>
 <td>
 
 ![Google i/o Extended](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/io.jpeg)
 
 </td>
-
+</tr>
+<tr>
   <td>
 
     Global WomenTech Conference 2023
