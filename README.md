@@ -2,15 +2,15 @@
 
 #### Name: Peculiar C. Umeh
 
-##### An Android Developer,Open source enthusiastic, Public Speaker, Program Manager
+##### Product Owner/Manager, Community Program Assistant (Ex-ALC), An Android Developer,Open source enthusiastic, Project Manager
 
 ## 1. Open Source Contributions
 
 ### Product Owner - Product Manager(ALC Open Source Community)
 
 I am building a Product called Mentor Management System for ALC Open Source Community.
-As a Product Owner, I manage team of 7 designers to design the first phase of the product.
-Presently, I am coordinating 50 Engineers developing the Web Application and 22 designers, designing the Mobile Application.
+As a Product Owner, I managed team of 7 designers to design the first phase of the product from scatch. I coordinated a cross-fuctional team(10) made up of 136 Google Africa Developers Scholarship(GADS) learners to built the Android version of the Mentor Management System app during the GADS 2022 project Phase.
+Presently, I am coordinating a cross-fuctional team(7) of 50 Engineers developing the Web Application of the Mentor Management System for ALC Open Source Program Cohort 2. Also leading 22 designers who are redesigning the Mobile Application.
 
 (The link can be found here)\[https://github.com/orgs/ALCOpenSource/repositories]
 
@@ -54,7 +54,7 @@ An app that fetches the current news from the internet and displays it in the we
 *   MVVM
 *   Room Database
 
-#### Screenshots
+#### Personal Project Screenshots
 
 <table>
   <tr>
@@ -208,30 +208,37 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 
 # Public Speaking
 
-My public speaking events
-
-#### Check them out
+My public speaking Sessions
+Check them out
 
 <table>
-<tr> 
-<td>
+ <tr>
+ <td>
+Keynote Speaker for IWD 2023
+Woment Tech Maker Port Harcourt 
+Topic:  Dare To Be
 
-Global WomenTech Conference 2020
-![Global WomenTech Conference 2020](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/womentech%201.png)
+![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/e89693d0-15e4-4060-9168-a673b5e1d2ee)
 
-Topic: Kotlin Programming Language: A big fix for many Java Issues
+View it here[link1](https://twitter.com/WTMPH/status/1635962369523298304?t=QW61UK2vXyK0wnlw_dc0SQ\&s=08) [link2](https://twitter.com/WTMPH/status/1636433167769796608?s=20)
 
-</td>
+</td>   
 </tr>
+
 <tr>
-<td>
+ <td>
+Global WomenTech Conference 2023
+ Topic: Building Android Applications with Jetpack Compose  
 
-![SCA Event](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/Asaba%20SCA.jpeg)
+![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/4cc5dc5c-d60a-40c7-b271-2f5e13b8bafd)
 
-Topic: Choosing a Tech Path
+[View the session](https://women-in-tech-conference.vfairs.com/en/hall#exterior-view)
 
 </td>
+
 </tr>
+ </table>
+<table> 
 <tr>
 <td>
 
@@ -246,26 +253,52 @@ Topic: Dependency Injection with Hilt in Android.
 <tr>
 <td>
 
-![Google i/o Extended](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/io.jpeg)
+She Code Africa, Asaba
+Topic: Choosing a Tech Path
+
+![SCA Event](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/Asaba%20SCA.jpeg)
+
+[View here](https://twitter.com/SCA_Asaba/status/1484825373963603969?t=Y22rkNgJANr6tc9cSmbjlw\&s=08)
 
 </td>
 </tr>
-<tr>
-  <td>
+ </table>
 
-    Global WomenTech Conference 2023
+<table> 
+</tr>
+<td>  
+ Developer Sudent Club RST University Port Harcourt.
+ Topic: Equpping Ladies with Tools to break into Tech Field.
 
-Global WomenTech Conference 2023
-![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/4cc5dc5c-d60a-40c7-b271-2f5e13b8bafd)
+    ![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/430110bd-00a0-4fc8-bb96-7b82e6391050)
 
-    Topic: Building Android Applications with Jetpack Compose
-    Link: (View the session)[https://women-in-tech-conference.vfairs.com/en/hall#exterior-view]
+</td>
+</tr>
+
+</tr>
+<td>
+The Room
+Panel Session for Software Engineers
+
+![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/53eda487-b0c1-4317-acb4-a783e3019334)
+September 2021
+
+</td>
+</tr>
+<tr> 
+<td>
+
+Global WomenTech Conference 2020
+![Global WomenTech Conference 2020](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/womentech%201.png)
+
+Topic: Kotlin Programming Language: A big fix for many Java Issues
 
 </td>
 
-</tr>
 </table>
 
 # Publications
 
-Coming soon
+[Retrofit Android Sample- Fetching JSON from URL](https://medium.com/p/d2c6f4faf95b)
+
+*   Room database, XML, Java, Retrofit
