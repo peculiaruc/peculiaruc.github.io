@@ -57,35 +57,35 @@ An app that fetches the current news from the internet and displays it in the we
 #### Personal Project Screenshots
 
 <table>
-  <tr>
-  <td>
+<tr>
+<td>
 
 ![](https://github.com/peculiaruc/NewsApp/blob/master/app/screenshot/device-2022-01-07-001732.png)
 
-  </td>
+</td>
 
-  <td>
+<td>
 
 ![](https://github.com/peculiaruc/NewsApp/blob/master/app/screenshot/device-2022-01-07-001844.png)
 
-  </td>
+</td>
 
-  <td>
+<td>
 
 ![](https://github.com/peculiaruc/NewsApp/blob/master/app/screenshot/device-2022-01-07-001951.png)
 
-  </td>
-  </tr>
+</td>
+</tr>
 
-   <tr>
+<tr>
 
- <td>
+<td>
 
 ![](https://github.com/peculiaruc/NewsApp/blob/master/app/screenshot/device-2022-01-07-002043.png)
 
- </td>
+</td>
 
- </tr>
+</tr>
 </table>
 
 ### 2. WineShop
@@ -127,42 +127,42 @@ save users Login details.
 
 #### Screenshots
 
- <table>
+<table>
 
-   <tr>
-   <td>
+<tr>
+<td>
 
 ![SplashScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034518.png)
 
-   </td>
+</td>
 
-   <td>
+<td>
 
 ![LogInScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034550.png)
 
-   </td>
+</td>
 
-   <td>
+<td>
 
 ![SignUpScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034908.png)
 
-   </td>
-   </tr>
+</td>
+</tr>
 
-  <td>
+<td>
 
 ![HomeScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-05-30-023821.png)
 
-  </td>
+</td>
 
-   <td>
+<td>
 
 ![DetailScreen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-05-30-024334.png)
 
-  </td>
+</td>
 
-  </tr>
- </table>
+</tr>
+</table>
 
 ### 3. LEADERBOARD
 
@@ -249,65 +249,80 @@ View it here[link1](https://twitter.com/WTMPH/status/1635962369523298304?t=QW61U
 ![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/4cc5dc5c-d60a-40c7-b271-2f5e13b8bafd)</td>
 
 </tr>
- </table>
+</table>
 
 <table> 
 <tr>
+
+<td>Global WomenTech Conference 2022</td>
+<td>She Code Africa, Asaba</td>
+
+</tr>
+
+<tr>
+
+<td>Topic: Dependency Injection with Hilt in Android.</td>
+<td>Topic: Choosing a Tech Path</td>
+
+</tr>
+
+<tr>
+
 <td>
 
-Global WomenTech Conference 2022
-![Global WomenTech Conference 2022](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/WomenTech.png)
+![Global WomenTech Conference 2022](https://github.com/peculiaruc/WriteSmart/assets/35475543/105fadab-dc22-48d5-af39-5237a6113573)
 
-Topic: Dependency Injection with Hilt in Android.
+</td>
+
+<td>
+
+![SCA Event](https://github.com/peculiaruc/WriteSmart/assets/35475543/84854c62-ab17-4557-aba4-09a932d41ae2)
 
 </td>
 </tr>
 
 <tr>
+
+<td>Link</td>
 <td>
-
-She Code Africa, Asaba
-Topic: Choosing a Tech Path
-
-![SCA Event](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/Asaba%20SCA.jpeg)
 
 [View here](https://twitter.com/SCA_Asaba/status/1484825373963603969?t=Y22rkNgJANr6tc9cSmbjlw\&s=08)
 
 </td>
 </tr>
- </table>
+</table>
 
 <table> 
 </tr>
-<td>  
- Developer Sudent Club RST University Port Harcourt.
- Topic: Equpping Ladies with Tools to break into Tech Field.
 
-    ![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/430110bd-00a0-4fc8-bb96-7b82e6391050)
-
-</td>
-</tr>
+<td> Developer Sudent Club RST University Port Harcourt.</td>
+<td>The Room- September 2021</td>
+<td>Global WomenTech Conference 2020</td>
 
 </tr>
-<td>
-The Room
-Panel Session for Software Engineers
+
+<td>Topic: Equpping Ladies with Tools to break into Tech Field.</td>
+<td>Panel Session for Software Engineers</td>
+<td>Topic: Kotlin Programming Language: A big fix for many Java Issues</td>
+
+</tr>
+
+<td> 
+
+![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/430110bd-00a0-4fc8-bb96-7b82e6391050)</td>
+
+<td> 
 
 ![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/53eda487-b0c1-4317-acb4-a783e3019334)
-September 2021
 
 </td>
+<td> 
+
+![image](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/womentech%201.png)
+
+</td>
+
 </tr>
-<tr> 
-<td>
-
-Global WomenTech Conference 2020
-![Global WomenTech Conference 2020](https://github.com/peculiaruc/peculiaruc.github.io/blob/main/screenshots/womentech%201.png)
-
-Topic: Kotlin Programming Language: A big fix for many Java Issues
-
-</td>
-
 </table>
 
 # Publications
