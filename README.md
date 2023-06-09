@@ -212,32 +212,45 @@ My public speaking Sessions
 Check them out
 
 <table>
- <tr>
- <td>
-Keynote Speaker for IWD 2023
-Woment Tech Maker Port Harcourt 
-Topic:  Dare To Be
-
-![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/e89693d0-15e4-4060-9168-a673b5e1d2ee)
-
-View it here[link1](https://twitter.com/WTMPH/status/1635962369523298304?t=QW61UK2vXyK0wnlw_dc0SQ\&s=08) [link2](https://twitter.com/WTMPH/status/1636433167769796608?s=20)
-
-</td>   
-</tr>
-
 <tr>
- <td>
-Global WomenTech Conference 2023
- Topic: Building Android Applications with Jetpack Compose  
 
-![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/4cc5dc5c-d60a-40c7-b271-2f5e13b8bafd)
+<td>Keynote Speaker for IWD 2023 - Woment Tech Maker Port Harcourt</td> 
+<td>Global WomenTech Conference 2023</td>
+
+</tr>
+<tr>
+
+<td>Topic:  Dare To Be</td>
+<td>Topic: Building Android Applications with Jetpack Compose </td>
+
+</tr>
+<tr>
+
+<td> 
+
+View it here[link1](https://twitter.com/WTMPH/status/1635962369523298304?t=QW61UK2vXyK0wnlw_dc0SQ\&s=08) [link2](https://twitter.com/WTMPH/status/1636433167769796608?s=20) </td>
+
+<td>
 
 [View the session](https://women-in-tech-conference.vfairs.com/en/hall#exterior-view)
 
 </td>
 
 </tr>
+
+<tr>
+
+<td>
+
+![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/e89693d0-15e4-4060-9168-a673b5e1d2ee) </td>
+
+<td>
+
+![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/4cc5dc5c-d60a-40c7-b271-2f5e13b8bafd)</td>
+
+</tr>
  </table>
+
 <table> 
 <tr>
 <td>
