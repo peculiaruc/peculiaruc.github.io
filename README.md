@@ -4,19 +4,30 @@
 
 ##### Product Owner/Manager, Community Program Assistant (Ex-ALC), An Android Developer,Open source enthusiastic, Project Manager
 
-## 1. Open Source Contributions
+# Open Source Contributions
 
-### Product Owner - Product Manager(ALC Open Source Community)
+### 1. Product Owner - Product Manager(ALC Open Source Community)
 
 I am building a Product called Mentor Management System for ALC Open Source Community.
-As a Product Owner, I managed team of 7 designers to design the first phase of the product from scatch. I coordinated a cross-fuctional team(10) made up of 136 Google Africa Developers Scholarship(GADS) learners to built the Android version of the Mentor Management System app during the GADS 2022 project Phase.
-Presently, I am coordinating a cross-fuctional team(7) of 50 Engineers developing the Web Application of the Mentor Management System for ALC Open Source Program Cohort 2. Also leading 22 designers who are redesigning the Mobile Application.
+As a Product Owner, I managed team of 7 designers to design the first phase of the product from scatch.
+I coordinated a cross-fuctional team(10) made up of 136 Google Africa Developers Scholarship(GADS) learners to built the Android version of the Mentor Management System app during the GADS 2022 project Phase.
 
-(The link can be found here)\[https://github.com/orgs/ALCOpenSource/repositories]
+Presently, I am coordinating a cross-fuctional team(7) of 50 Engineers developing the Web Application of the Mentor Management System for ALC Open Source Program Cohort 2.
+Also leading 22 designers who are redesigning the Mobile Application.
 
-### 2. Oppia Android Project
+[The link can be found here](https://github.com/orgs/ALCOpenSource/repositories)
 
-[Link](https://github.com/oppia/oppia-android)
+### 2. ALC Open Source Cohort 1
+
+Techincal Team Lead(TTL)
+Lead a team of Engineers to built a Web Application called SkillBuddy.
+SKILLSbuddy is a digital learning platform that focuses on delivering learning experience as simple as having a conversation, simultaneously providing a richer and more learner-centred experience compared to traditional eLearning experiences.
+
+[Project Link](https://github.com/ALCOpenSource/conversational-app-team3)
+
+### 3. Oppia Android Project
+
+[Project link](https://github.com/oppia/oppia-android)
 
 *   Optimized profile chooser fragment - [UI](https://github.com/oppia/oppia-android/pull/1997)
 *   Profile chooser profile view XML up to 100%. - [UI](https://github.com/oppia/oppia-android/pull/2100)
@@ -24,16 +35,16 @@ Presently, I am coordinating a cross-fuctional team(7) of 50 Engineers developin
 *   Added tests for Number With Units Input Is Equal To Rule Classifier -[Test case](https://github.com/oppia/oppia-android/pull/2152)
 *   Selection Input Equals Rule Classifier up to 100%.-[Test case](https://github.com/oppia/oppia-android/pull/2144) Etc.
 
-#### 3. Zuri Chat Inc
+#### 4. Zuri Chat Inc
 
-[Link](https://github.com/zurichat/zc_app_android)
+[Project link](https://github.com/zurichat/zc_app_android)
 
 *   Implemented authentications and all assigned/picked issues in Zuri Chat app to 100%
     leading to the completion/publication of the app on the [play store](https://play.google.com/store/apps/details?id=com.zurichat.app).
 
-#### 4. ReachForHelp
+#### 5. ReachForHelp
 
-[Link](https://github.com/ksinnovationhub/teamsdn)
+[Project link](https://github.com/ksinnovationhub/teamsdn)
 
 *   Platform for NBA to track illegal detention cases,
     police harassment  and domestic violent.
@@ -43,6 +54,7 @@ Presently, I am coordinating a cross-fuctional team(7) of 50 Engineers developin
 ### 1. NewsApp
 
 An app that fetches the current news from the internet and displays it in the web view.
+[Project link](https://github.com/peculiaruc/NewsApp)
 
 #### Libraries Used
 
@@ -54,7 +66,7 @@ An app that fetches the current news from the internet and displays it in the we
 *   MVVM
 *   Room Database
 
-#### Personal Project Screenshots
+#### Screenshots
 
 <table>
 <tr>
@@ -92,6 +104,7 @@ An app that fetches the current news from the internet and displays it in the we
 
 An app that displays the different types of Non-Alcoholic wines and their details. It uses Room database to
 save users Login details.
+[Project link](https://github.com/peculiaruc/WineShop)
 
 #### Features
 
@@ -168,6 +181,7 @@ save users Login details.
 
 Google Africa Developer Schorlaship-GADS Project.
 AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
+[Project link](https://github.com/peculiaruc/LEADERBOARD)
 
 #### Screenshots
 
