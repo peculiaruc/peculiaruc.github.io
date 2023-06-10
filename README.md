@@ -2,9 +2,9 @@
 
 #### Name: Peculiar C. Umeh
 
-##### Product Owner/Manager, Community Program Assistant (Ex-ALC), An Android Developer,Open source enthusiastic, Project Manager
+##### Profile: Product Owner/Manager, Community Program Assistant (Ex-ALC), An Android Developer,Open source enthusiastic, Project Manager
 
-# Open Source Contributions
+## Open Source Contributions
 
 ### 1. Product Owner - Product Manager(ALC Open Source Community)
 
