@@ -343,4 +343,9 @@ View it here[link1](https://twitter.com/WTMPH/status/1635962369523298304?t=QW61U
 
 [Retrofit Android Sample- Fetching JSON from URL](https://medium.com/p/d2c6f4faf95b)
 
-*   Room database, XML, Java, Retrofit
+* Android SDK, Room database, XML, Java, Retrofit
+
+[The RecyclerView](https://medium.com/@peculiarumeh02/recycler-view-c38e060d64ee)
+
+[Building Android Application with Jetpack Compose](https://dev.to/peculiaruc/building-android-application-with-jetpack-compose-469m)
+* Android, Jetpack Compose, Kotlin  
