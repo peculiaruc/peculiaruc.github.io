@@ -6,23 +6,31 @@
 
 Android Developer with experience in modern development practices and writing clean, maintainable, and readable codes. I strongly desire to help others solve their problems and love to mentor people who share my passion for the platform. Team player who gets along exceptionally well with others. A community builder.
 
+
+## 1. Community Program Assistant - Andela Learning Community - April 2022 - June 2023
+* Manage communications on the Andela Learning Community platform with over 45k learners by constantly monitoring and responding to queries, issues, concerns and trends.
+* Assisted the Andela Senior Program Managers with Product campaigns on the platform that increased user engagement.
+* Source for and provide learning resources for the learners.
+* Engage users with different learning activities, initiatives, events etc.
+
+## 2. Program Assistant- Google Africa Developer Scholarship (GADS)  - July 2021-December 2022
+* Training Programs Execution: Supported and constantly engaged GADS learners and mentors across programs. I have been part of a team that managed the execution of 2 iterations of training programs in Africa, with over 30k learners in each program.
+* Led and coordinated Women of GADS and 100 days of GADS initiative, which led to the excellent skill development of all the participants, while promoting diversity and inclusion
+
 ## Open Source Contributions
 
 ### 1. Project Coordinator/Product Owner - (ALC Open Source Community)
 
-I am building a Product called Mentor Management System for ALC Open Source Community.
-As a Product Owner, I managed team of 7 designers to design the first phase of the product from scatch.
-I coordinated a cross-fuctional team(10) made up of 136 Google Africa Developers Scholarship(GADS) learners to built the Android version of the Mentor Management System app during the GADS 2022 project Phase.
+* I led a team of seven designers in the creation of the initial product phase from the ground up. Additionally, I orchestrated the efforts of a cross-functional team comprising ten individuals, all of whom were participants in the Google Africa Developers Scholarship (GADS) program. Together, we successfully developed the Android version of the Mentor Management System app as part of the GADS 2022 project phase, involving 136 learners
 
-Presently, I am coordinating a cross-fuctional team(7) of 50 Engineers developing the Web Application of the Mentor Management System for ALC Open Source Program Cohort 2.
-Also leading 22 designers who are redesigning the Mobile Application.
+* Coordinating a cross-functional team (7) of 50 Engineers. Our primary objective is the development of the web application for the Mentor Management System as part of the ALC Open-Source Program Cohort 2 and  guided a team of 22 designers who are dedicated to the redesign of the mobile application
 
 [The link can be found here](https://github.com/orgs/ALCOpenSource/repositories)
 
 ### 2. ALC Open Source Cohort 1
 
 Techincal Team Lead(TTL)
-Lead a team of Engineers to built a Web Application called SkillBuddy.
+* Lead a team of Engineers to built a Web Application called SkillBuddy.
 SKILLSbuddy is a digital learning platform that focuses on delivering learning experience as simple as having a conversation, simultaneously providing a richer and more learner-centred experience compared to traditional eLearning experiences.
 
 [Project Link](https://github.com/ALCOpenSource/conversational-app-team3)
