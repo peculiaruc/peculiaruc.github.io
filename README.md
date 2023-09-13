@@ -2,11 +2,13 @@
 
 #### Name: Peculiar C. Umeh
 
-##### Profile: Product Owner/Manager, Community Program Assistant (Ex-ALC), An Android Developer,Open source enthusiastic, Project Manager
+##### Profile: Experienced Software Engineer with a versatile background in software development, Project management, Program Management and Community management with a proven track record of leading cross-functional teams, driving innovation, and contributing to open-source projects.
+
+Android Developer with experience in modern development practices and writing clean, maintainable, and readable codes. I strongly desire to help others solve their problems and love to mentor people who share my passion for the platform. A team player who gets along exceptionally well with others. A community builder.
 
 ## Open Source Contributions
 
-### 1. Product Owner - Product Manager(ALC Open Source Community)
+### 1. Project Coordinator/Product Owner - (ALC Open Source Community)
 
 I am building a Product called Mentor Management System for ALC Open Source Community.
 As a Product Owner, I managed team of 7 designers to design the first phase of the product from scatch.
