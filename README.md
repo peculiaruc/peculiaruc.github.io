@@ -4,7 +4,7 @@
 
 ##### Profile: Experienced Software Engineer with a versatile background in software development, Project management, Program Management and Community management with a proven track record of leading cross-functional teams, driving innovation, and contributing to open-source projects.
 
-Android Developer with experience in modern development practices and writing clean, maintainable, and readable codes. I strongly desire to help others solve their problems and love to mentor people who share my passion for the platform. A team player who gets along exceptionally well with others. A community builder.
+Android Developer with experience in modern development practices and writing clean, maintainable, and readable codes. I strongly desire to help others solve their problems and love to mentor people who share my passion for the platform. Team player who gets along exceptionally well with others. A community builder.
 
 ## Open Source Contributions
 
