@@ -19,7 +19,7 @@ Android Developer with experience in modern development practices and writing cl
 
 ## Open Source Contributions
 
-### 1. Project Coordinator/Product Owner - (ALC Open Source Community)
+### 1. Project Coordinator/Product Owner - [ALC Open Source Community](https://github.com/orgs/ALCOpenSource/repositories) 
 
 * I led a team of seven designers in the creation of the initial product phase from the ground up. Additionally, I orchestrated the efforts of a cross-functional team comprising ten individuals, all of whom were participants in the Google Africa Developers Scholarship (GADS) program. Together, we successfully developed the Android version of the Mentor Management System app as part of the GADS 2022 project phase, involving 136 learners
 
@@ -33,7 +33,7 @@ Techincal Team Lead(TTL)
 * Lead a team of Engineers to built a Web Application called SkillBuddy.
 SKILLSbuddy is a digital learning platform that focuses on delivering learning experience as simple as having a conversation, simultaneously providing a richer and more learner-centred experience compared to traditional eLearning experiences.
 
-[Project Link](https://github.com/ALCOpenSource/conversational-app-team3)
+[Project Link](https://github.com/ALCOpenSource/Mentor-Management-System-Team-3)
 
 ### 3. Oppia Android Project
 
