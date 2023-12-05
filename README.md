@@ -2,9 +2,9 @@
 
 #### Name: Peculiar C. Umeh
 
-##### Profile: Experienced Software Engineer with a versatile background in software development, Project management, Program Management and Community management with a proven track record of leading cross-functional teams, driving innovation, and contributing to open-source projects.
+##### Profile: Experienced Project Manager with over 4+ years in program management, software development, and team leadership. Led highly distributed, remote, and cross-functional teams on multiple cross-project activities with a track record of exceeding project delivery expectations. I have a great passion for technology, which has driven me to greater achievements in my career. I have great experience creating an environment where individuals feel motivated; driving innovations across project teams. I have been recognized countless times for my exceptional organization, management, and technology skills.
 
-Android Developer with experience in modern development practices and writing clean, maintainable, and readable codes. I strongly desire to help others solve their problems and love to mentor people who share my passion for the platform. Team player who gets along exceptionally well with others. A community builder.
+Android Developer with experience in modern development practices and writing clean, maintainable, and readable codes. I strongly desire to help others solve their problems and love to mentor people who share my passion for the platform. Team player who gets along exceptionally well with others. 
 
 
 ## 1. Community Program Assistant - Andela Learning Community - April 2022 - June 2023
@@ -19,25 +19,62 @@ Android Developer with experience in modern development practices and writing cl
 
 ## Open Source Contributions
 
-### 1. Project Coordinator/Product Owner - [ALC Open Source Community](https://github.com/orgs/ALCOpenSource/repositories) 
+### 1. Andela (Contract)
+Project Manager/Coordinator/Product Owner - Andela Learning Community (ALC) Open Source Project.
 
-* I led a team of seven designers in the creation of the initial product phase from the ground up. Additionally, I orchestrated the efforts of a cross-functional team comprising ten individuals, all of whom were participants in the Google Africa Developers Scholarship (GADS) program. Together, we successfully developed the Android version of the Mentor Management System app as part of the GADS 2022 project phase, involving 136 learners
+* Define the scope and manage the development of the Andela Mentor Management System App, encompassing both web and Android versions and other applications used in the Andela Learning Community.
+* Identify the project's goals, objectives, requirements, and scope and create a project plan that outlines the tasks, timelines, and resources required
+* Provided project leadership and guidance to Technical Team Leads responsible for developing the App’s Admin section within the cross-functional Team.
+* Facilitate and Moderate Scrum ceremonies, ensuring effective churning of product increment and collaboration among the cross-functional teams responsible for development.
+* Managed GitHub repositories, Jira board, and other tools used by the team during development and for collaborations.
+* Implemented Agile Methodology and Scrum framework to ensure timely delivery of features.
+* Identify and Resolve blockers, Issues, and concerns in the course of development.
+* Evaluate and review Project Performance, ensure Stakeholders' satisfaction, and develop periodic for visibility.
 
-* Coordinating a cross-functional team (7) of 50 Engineers. Our primary objective is the development of the web application for the Mentor Management System as part of the ALC Open-Source Program Cohort 2 and  guided a team of 22 designers who are dedicated to the redesign of the mobile application
 
-[The link can be found here](https://github.com/orgs/ALCOpenSource/repositories)
+[Repository Link](https://github.com/orgs/ALCOpenSource/repositories)
 
-### 2. ALC Open Source Cohort 1
+### 2. Scud Technology Ltd
+Android Developer/Engineer (Part-Time)
 
-Techincal Team Lead(TTL)
-* Lead a team of Engineers to built a Web Application called SkillBuddy.
-SKILLSbuddy is a digital learning platform that focuses on delivering learning experience as simple as having a conversation, simultaneously providing a richer and more learner-centred experience compared to traditional eLearning experiences.
+* Design and developed Scrud Rider applications for the Android platform
+* Collaborate with cross-functional teams to develop and ship new features
+* Performed unit-test code for robustness, including edge cases, usability, and general reliability
+* Work on bug fixes and improvements for application performance
+* Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+* Achieved 100% completion rate for all assigned tasks, demonstrating a commitment to successful project delivery
 
-[Project Link](https://github.com/ALCOpenSource/Mentor-Management-System-Team-3)
+Private repository.
 
-### 3. Oppia Android Project
+### 3. Andela (Contract)
+Project Manager/Technical Team Lead (TTL ) — ALC Open Source Project Cohort 1 
 
-[Project link](https://github.com/oppia/oppia-android)
+* Supervised and directed a team of both Frontend and Backend Engineers in the 98% development of the SkillBuddy Web Application.
+* Provided mentorship and guidance to the engineers, facilitating the creation of high-quality code, rigorous testing, Codacy standard code checks, and comprehensive analysis of the Web application.
+* Maintaining the backlog items, writing user stories, and doing task estimations.
+* Implemented Agile methodology and facilitated the Scrum ceremonies to ensure incremental, continuous, and timely deliveries of features.
+* Manage and unblock project risks and issues, and review and monitor progress to ensure that the development stays on track.
+* Work with stakeholders to define project scope and provide visibility on work progress to drive satisfaction.
+
+[Repository Link](https://github.com/ALCOpenSource/Mentor-Management-System-Team-3)
+
+### 4. Andela (Contract)
+Assistant Program/Project Manager - Andela Learning Community (ALC) / Google Africa Developers Scholarship
+
+* Assistant Program/Project Manager - Andela Learning Community (ALC) / Google Africa Developers Scholarship.
+* Managed the Andela Learning Community platform by ensuring effective coordination and timely communication across project implementations and learning programs.
+* Worked closely with Andela Senior Program/Project Managers to execute impactful Projects and ensure effective product campaigns on the platform which resulted in 98% user engagement.
+* Managed and coordinated cross-project activities across the Andela Learning Community using Agile methods.
+* Actively engaged with a user base of over 45k learners by monitoring and promptly addressing inquiries, issues, concerns, and emerging trends.
+* Provided valuable learning resources, initiatives, and workshops to support the training needs of projects and Andela Learning Community members.
+* Oversaw the project/program execution of two training program iterations for the Google Africa Developer Scholarship, each catering to a vast audience of over 30,000 learners.
+* Managed Program engagement and coordination for Google Africa Developers Scholarship (GADS) program learners and mentors across the program.
+* Drove impactful initiatives, in leadership and coordination of Women of GADS  resulting in significant skill development among all participants and promoting diversity and inclusion.
+* Initiated and coordinated 100 Days of GADS, generates participants social media posts weekly with Twitter(X) API, leading to 96% of participants' success in Google Cloud, Association Android Certification
+
+
+### 5. Oppia Android Project  (Open Source Project)
+Android Developer Contributor
 
 *   Optimized profile chooser fragment - [UI](https://github.com/oppia/oppia-android/pull/1997)
 *   Profile chooser profile view XML up to 100%. - [UI](https://github.com/oppia/oppia-android/pull/2100)
@@ -45,19 +82,29 @@ SKILLSbuddy is a digital learning platform that focuses on delivering learning e
 *   Added tests for Number With Units Input Is Equal To Rule Classifier -[Test case](https://github.com/oppia/oppia-android/pull/2152)
 *   Selection Input Equals Rule Classifier up to 100%.-[Test case](https://github.com/oppia/oppia-android/pull/2144) Etc.
 
-#### 4. Zuri Chat Inc
+[Repository Link](https://github.com/oppia/oppia-android)
+
+
+#### 4. Zuri Chat Inc- (Open Source Project)
+Android Developer Intern
 
 [Project link](https://github.com/zurichat/zc_app_android)
 
-*   Implemented authentications and all assigned/picked issues in Zuri Chat app to 100%
-    leading to the completion/publication of the app on the [play store](https://play.google.com/store/apps/details?id=com.zurichat.app).
+*   Work with other team members to troubleshoot bugs and issue resolution
+*   Performed code review with other developers and helped develop technical strategy.
+*   Brainstorming ideas with teams to develop and introduce new features.
+*   Collaborating with other developers, and project managers to design and build APIs and prototype.
+*   Proficiently implemented authentication for all designated features, This
+ pivotal contribution directly led to the successful completion of the application.
 
-#### 5. ReachForHelp
 
-[Project link](https://github.com/ksinnovationhub/teamsdn)
+#### 5. ReachForHelp -Android Developer Intern
 
 *   Platform for NBA to track illegal detention cases,
     police harassment  and domestic violent.
+
+[Project link](https://github.com/ksinnovationhub/teamsdn)
+
 
 ## Personal Projects
 
