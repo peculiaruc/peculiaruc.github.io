@@ -283,6 +283,12 @@ My public speaking Sessions
 Check them out
 
 <table>
+ <tr>
+
+<td>DevFest Panelist</td> 
+<td>DevFest Port Harcourt 2023</td>
+
+</tr>
 <tr>
 
 <td>Keynote Speaker for IWD 2023 - Woment Tech Maker Port Harcourt</td> 
@@ -299,7 +305,7 @@ Check them out
 
 <td> 
 
-View it here[link1](https://twitter.com/WTMPH/status/1635962369523298304?t=QW61UK2vXyK0wnlw_dc0SQ\&s=08) [link2](https://twitter.com/WTMPH/status/1636433167769796608?s=20) </td>
+View it here[link1](https://x.com/gdgcloudph/status/1722550785542651974?t=cMkzku5p-5kda6chzfAcXg&s=08) [link2](https://twitter.com/WTMPH/status/1635962369523298304?t=QW61UK2vXyK0wnlw_dc0SQ\&s=08) [link3](https://twitter.com/WTMPH/status/1636433167769796608?s=20) </td>
 
 <td>
 
@@ -311,6 +317,10 @@ View it here[link1](https://twitter.com/WTMPH/status/1635962369523298304?t=QW61U
 
 <tr>
 
+<td>
+
+![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/c1e5ae51-5cfb-43e8-9a59-a070605fd5a2) </td>
+ 
 <td>
 
 ![image](https://github.com/peculiaruc/peculiaruc.github.io/assets/35475543/e89693d0-15e4-4060-9168-a673b5e1d2ee) </td>
