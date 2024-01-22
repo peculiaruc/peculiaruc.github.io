@@ -189,7 +189,7 @@ AAD-Phase-2 Project. An app that displays 20 top learners and the likes.
 <tr> 
 <td>
 
-![splashscreen](https://github.com/peculiaruc/LEADERBOARD/blob/master/app/screenshots/splashscreen.png)
+<img src = "screenshots/splashscreen.png"/>
 
 </td>
 <td>
